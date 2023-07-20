@@ -132,3 +132,5 @@ ui <- fluidPage(
   }
   shinyApp(ui,server)
 
+
+# a dodam se komentarz na końcu żeby sprawdzić jak działa commit w gicie
